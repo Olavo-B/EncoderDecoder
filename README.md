@@ -7,10 +7,11 @@ the context vector from the encoder to be used as new data representation.
 ![misc/img/encoder-decoder.png](misc/img/encoder-decoder.png) 
 
 ## Notebooks
-- [Encoder-Decoder notebook using dummy dataset](notebooks/EncoderDecoder.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1oTpOUHhTjohmLELwcs4zNBigT0y-FFYc">
+- [Encoder-Decoder notebook using dummy dataset](notebook/EncoderDecoder.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/Olavo-B/EncoderDecoder/blob/main/notebook/EncoderDecoder.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-- [EncoderDecoder-IrisExample](notebooks/EncoderDecoder-Example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/Olavo-B/EncoderDecoder/blob/main/notebook/EncoderDecoder-Example.ipynb">
+
+- [EncoderDecoder - Real data example](notebook/EncoderDecoder-Example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/Olavo-B/EncoderDecoder/blob/main/notebook/EncoderDecoder-Example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
